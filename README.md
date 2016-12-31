@@ -1,0 +1,1 @@
+# bamade.miner
